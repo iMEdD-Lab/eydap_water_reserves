@@ -4,7 +4,7 @@ from xml.etree import ElementTree as ET
 from bs4 import BeautifulSoup
 
 
-HISTORICAL_CSV = "water_reserves_br.csv"
+HISTORICAL_CSV = "water_reserves_latest.csv"
 OUTPUT_CSV = "water_reserves_latest.csv"
 LATEST_DAY_COMPARE_CSV = "latest_day_compare.csv"
 
